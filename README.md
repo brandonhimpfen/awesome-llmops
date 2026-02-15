@@ -57,6 +57,7 @@ LLMOps is the emerging practice of managing the lifecycle of large language mode
 
 - **[PromptLayer](https://www.promptlayer.com/)** – Log, monitor, and manage prompts across LLM providers.
 - **[Arize AI](https://arize.com/)** – LLM monitoring, evaluation, and prompt tracing.
+- **[Opik](https://github.com/comet-ml/opik)** – Open-source LLM observability, evaluation, and tracing platform.
 - **[WhyLabs](https://whylabs.ai/)** – Observability for ML and LLM deployments.
 - **[TruLens](https://trulens.org/)** – Feedback loop framework for evaluating and improving LLM apps.
 
