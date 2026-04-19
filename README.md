@@ -41,8 +41,10 @@ LLMOps is the emerging practice of managing the lifecycle of large language mode
 
 ## Evaluation & Benchmarking
 
+- **[AI Workflow Benchmark](https://github.com/xmpuspus/ai-workflow-benchmark)** – 100-task harness measuring AI coding tool and workflow performance across 8 categories and 12 capability dimensions.
 - **[Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)** – Benchmarking open LLMs.
 - **[Helm](https://crfm.stanford.edu/helm/latest/)** – Stanford’s framework for evaluating LLMs across tasks.
+- **[kb-arena](https://github.com/xmpuspus/kb-arena)** – RAG evaluation arena benchmarking 7 retrieval strategies on your own docs with ELO-based blind A/B ranking and RAGAS metrics.
 - **[LM Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness)** – Test harness for LLM evaluation.
 - **[TruLens](https://github.com/truera/trulens)** – LLM observability and feedback tracking.
 
@@ -91,6 +93,7 @@ LLMOps is the emerging practice of managing the lifecycle of large language mode
 
 ## Tooling Ecosystem
 
+- **[CloudWright](https://github.com/xmpuspus/cloudwright)** – AI-powered cloud architecture tool that turns natural-language infrastructure descriptions into Terraform/CloudFormation, cost estimates, and compliance reports across AWS, GCP, Azure, and Databricks.
 - **[Weights & Biases](https://wandb.ai/)** – Track and visualize model training and performance.
 - **[MLflow](https://mlflow.org/)** – Platform for managing the ML lifecycle.
 - **[PromptLayer](https://github.com/promptlayer/promptlayer-python)** – Middleware for logging and versioning prompt inputs and outputs.
